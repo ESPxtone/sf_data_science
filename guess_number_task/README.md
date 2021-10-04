@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Результат)    
+[6. Выводы](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?    
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом  
