@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Выводы) 
 
 ### Описание проекта    
-Анализ, преобразование и очистка данных о вкансиях на hh.ru
+Анализ, преобразование и очистка данных о вакансиях на hh.ru
 
 :arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Оглавление)
 
