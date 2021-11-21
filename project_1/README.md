@@ -1,17 +1,17 @@
 # Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Результаты)    
-[6. Выводы](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Выводы) 
+[1. Описание проекта](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Результаты)    
+[6. Выводы](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Анализ, преобразование и очистка данных о вакансиях на hh.ru
 
-:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -21,7 +21,7 @@
 ### Краткая информация о данных
 Предоставлены данные о 44744 резюме соискателей среди них данные о: зарплает, должности, городе, возрасте, поле, опыте работы и т.д.
   
-:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -30,16 +30,16 @@
 3. Исследование зависимостей в данных. Был произведен разведывательный анализ для выявлений связей между признаками,выявления закономерностей, определения распределений признаков, поиска аномалий и других дефектов данных.
 4. Очистка данных. На данном этапе из датасета были удалены пропуски, дубликаты и выбросы.
 
-:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 Данные были преобразованы, исследованы и очищены для дальнейшего построения модели определения желаемой заработной платы соискателей.
 
-:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 Ну вот такие дела =)
 
-:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Оглавление)
