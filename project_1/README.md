@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/ESPxtone/sf_data_science/tree/main/guess_number_task/README.md#Описание-проекта)  
