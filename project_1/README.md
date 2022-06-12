@@ -6,7 +6,7 @@
 [3. Краткая информация о данных](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Результаты)    
-[6. Выводы](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Выводы) 
+
 
 ### Описание проекта    
 Анализ, преобразование и очистка данных о вакансиях на hh.ru
@@ -39,7 +39,5 @@
 :arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
-### Выводы:  
-Ну вот такие дела =)
 
-:arrow_up:[к оглавлению](https://github.com/ESPxtone/sf_data_science/tree/main/project_1/README.md#Оглавление)
+
